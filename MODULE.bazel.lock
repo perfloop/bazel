@@ -403,7 +403,7 @@
   "moduleExtensions": {
     "//:repositories.bzl%async_profiler_repos": {
       "general": {
-        "bzlTransitiveDigest": "xDEo5VBu9y6GbCK02ak9T4XDRGskWoHkR8ugq2yhCcY=",
+        "bzlTransitiveDigest": "pIP3rTEdhzTutHNn9p/BJpIF2rkp8LOlCYm/LhaXVLk=",
         "usagesDigest": "7jreou9WV8qOgoUM+8bYvk7WC5dIlxvYXDi24CckXQQ=",
         "recordedInputs": [
           "REPO_MAPPING:,async_profiler +async_profiler_repos+async_profiler",
